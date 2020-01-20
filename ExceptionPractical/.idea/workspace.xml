@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fff99d11-bc6f-482f-a51f-6f045ac4f0f2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1WONwGHn6Z3keJdhCjy1uF0TsdO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.CreateOwnExceptions">
+    <configuration name="CatchingChildExceptionByParent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CatchingChildExceptionByParent.CatchingChildExceptionByParent" />
+      <module name="ExceptionPractical" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CatchingChildExceptionByParent.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreateOwnExceptions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CreateOwnExceptions.CreateOwnExceptions" />
+      <module name="ExceptionPractical" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CreateOwnExceptions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RethrowException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RethrowException.RethrowException" />
+      <module name="ExceptionPractical" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="RethrowException.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TryCatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UnderstandingTryCatchFinally.TryCatch" />
+      <module name="ExceptionPractical" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="UnderstandingTryCatchFinally.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TryCatchFinally" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UnderstandingTryCatchFinally.TryCatchFinally" />
+      <module name="ExceptionPractical" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="UnderstandingTryCatchFinally.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CreateOwnExceptions" />
+        <item itemvalue="Application.RethrowException" />
+        <item itemvalue="Application.CatchingChildExceptionByParent" />
+        <item itemvalue="Application.TryCatchFinally" />
+        <item itemvalue="Application.TryCatch" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fff99d11-bc6f-482f-a51f-6f045ac4f0f2" name="Default Changelist" comment="" />
+      <created>1579016918596</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579016918596</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="495" y="80" key="#com.intellij.ide.util.MemberChooser" timestamp="1579021256540">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="495" y="80" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1579021256540" />
+    <state width="1306" height="220" key="GridCell.Tab.0.bottom" timestamp="1579021943547">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="220" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1579021943547" />
+    <state width="1306" height="220" key="GridCell.Tab.0.center" timestamp="1579021943547">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="220" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1579021943547" />
+    <state width="1306" height="220" key="GridCell.Tab.0.left" timestamp="1579021943547">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="220" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1579021943547" />
+    <state width="1306" height="220" key="GridCell.Tab.0.right" timestamp="1579021943547">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="220" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1579021943547" />
+    <state width="1306" height="220" key="GridCell.Tab.1.bottom" timestamp="1579021943547">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="220" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1579021943547" />
+    <state width="1306" height="220" key="GridCell.Tab.1.center" timestamp="1579021943547">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="220" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1579021943547" />
+    <state width="1306" height="220" key="GridCell.Tab.1.left" timestamp="1579021943547">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="220" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1579021943547" />
+    <state width="1306" height="220" key="GridCell.Tab.1.right" timestamp="1579021943547">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="220" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1579021943547" />
+    <state x="398" y="198" key="com.intellij.ide.util.TipDialog" timestamp="1579022188109">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="398" y="198" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1579022188109" />
+    <state x="72" y="0" key="new project wizard" timestamp="1579023000100">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="72" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1579023000100" />
+  </component>
+</project>
